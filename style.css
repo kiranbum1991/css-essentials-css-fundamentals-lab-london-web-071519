@@ -29,3 +29,6 @@ figcaption {
     margin-right: 300px;
     margin-left: 300px;
   }
+#details {
+    display: inline-block;
+}
