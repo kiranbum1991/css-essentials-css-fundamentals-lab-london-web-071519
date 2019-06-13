@@ -27,4 +27,5 @@ figcaption {
 .img-with-text {
   text-align: center;
   width: [800px];
+  position: relative;
 }
