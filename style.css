@@ -23,12 +23,10 @@ figcaption {
   text-align: center;
   font-size: small;
 }
-
-p #featured-property {
-display: block;
-text-align: center;
-width: 800px;
-}
+  .center #featured-property {
+    text-align: center;
+    border: 3px solid green;
+  }
 
 #details {
     display: inline;
