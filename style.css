@@ -29,7 +29,7 @@ text-align: center;
 width: 800px;
 }
 
-details {
+#details {
   position: fixed;
   left: 0;
   bottom: 0;
