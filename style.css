@@ -32,3 +32,6 @@ figcaption {
 #details div {
     display: inline-block;
 }
+div.footer-menu {
+  text-align:center;
+}
