@@ -25,5 +25,6 @@ figcaption {
 }
 
 .img-with-text {
-  display: block;
+  text-align: justify;
+  width: [900px];
 }
