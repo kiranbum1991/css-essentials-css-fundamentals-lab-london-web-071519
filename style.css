@@ -30,6 +30,5 @@ figcaption {
     margin-left: 300px;
   }
 #details div {
-    display: block;
-    display: inline;
+    display: inline-block;
 }
