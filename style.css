@@ -30,6 +30,6 @@ figcaption {
     margin-left: 300px;
   }
   #footer-widgets .widget.widget_nav_menu li:before {
-    content: "\007C\00a0\00a0";
+    content: "details";
     margin-right: 16px;
   }
