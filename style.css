@@ -20,12 +20,11 @@ color: black;
 }
 
 figcaption {
-  text-align: center;;
+  text-align: center;
   font-size: small;
 }
 
 p#featured-property {
-  display: block;
-  text-align: center;
-  width: [800px];
+text-align: center;
+width: 800px;
 }
