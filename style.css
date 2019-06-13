@@ -32,9 +32,9 @@ figcaption {
 
   #details div {
   display: inline-block;
-  background-color: yellow; 
+  background-color: yellow;
   list-style-type: none;
-  text-align: center; 
+  text-align: center;
   padding: 0;
   margin: 0;
   }
