@@ -29,7 +29,8 @@ figcaption {
     margin-right: 300px;
     margin-left: 300px;
   }
-#details div {
+#details .div {
     display: inline-block;
-    float: left;
+    display: inline-block;
+    padding: 0 5px;
 }
