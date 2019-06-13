@@ -29,7 +29,5 @@ figcaption {
     margin-right: 300px;
     margin-left: 300px;
   }
-  #footer-widgets .widget.widget_nav_menu li:before {
-    content: "details";
-    margin-right: 16px;
-  }
+
+  
