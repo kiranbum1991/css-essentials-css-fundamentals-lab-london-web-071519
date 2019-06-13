@@ -18,11 +18,12 @@ background-color: #3642f4;
 padding: 10px 10px;
 color: black;
 }
+
 figcaption {
-  text-align: center;
+  text-align: center;;
   font-size: small;
 }
 
-section featured-property {
+.img-with-text {
   display: block;
 }
