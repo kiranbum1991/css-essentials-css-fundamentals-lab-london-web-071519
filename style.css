@@ -39,3 +39,7 @@ width: 800px;
   color: white;
   text-align: center;
 }
+
+section {
+    display: inline;
+}
